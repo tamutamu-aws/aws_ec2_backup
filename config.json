@@ -1,0 +1,6 @@
+{
+  "Region": "ap-northeast-1",
+  "Retention": 14,
+  "Backup_prefix": "_daily_backup",
+  "Backup_mount_points": ["/"]
+}

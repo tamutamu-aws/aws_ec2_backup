@@ -28,7 +28,7 @@
   - インストール
 
   ```
-  git clone https://alfort.adc-tis.com/gitbucket/git/shaft/aws_ec2_backup.git
+  git clone https://github.com/tamutamu/aws_ec2_backup.git
   cd aws_ec2_backup
 
   ## pythonの仮想環境を作成します。(by pyenv, pyenv-virtualenv)
